@@ -11,6 +11,6 @@ l'outil tient à présenter les différents plats que peux régorger cette cultu
 -   un panel cuisson qui réprésente la cuisson de chaque plat inscris dans le menu
 
 # Conseils 
-Si tu préfères comme moi les plats fournis par cette culture alors lances - toi sur ce projet, afin de l'améliorer d'avantage.
+Si tu préfères comme moi les plats fournis par cette culture alors lances  toi sur ce projet, afin de l'améliorer d'avantage.
 
-#Good luck 😊: `A passerby being a 1 is a 0 unconscious`
+#:💢 *`A passerby being a 1 is a 0 unconscious`*
